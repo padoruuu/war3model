@@ -3,7 +3,7 @@
     "notes": "更新说明",
       "windows-x86_64": {
         "url": "https://你的下载地址/war3-model-view-1.0.1.exe",
-        "signature": "这里放 .sig 文件内容"
+        "signature": "这里放 .sig 文件内容aa"
       }
     }
   }
